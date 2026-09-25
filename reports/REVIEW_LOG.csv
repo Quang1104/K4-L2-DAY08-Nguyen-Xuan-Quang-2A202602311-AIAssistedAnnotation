@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0107.jpg,xe bị cắt ở góc dưới giữa ảnh,added,Chỉ khoanh phần đuôi còn nhìn thấy trong ảnh
+1,frame_0099.jpg,vệt đèn trên đường ở góc phải,deleted,Không phải xe nên xóa khung
+1,frame_0182.jpg,xe tối ở góc dưới phải ảnh,added,Model bỏ sót nên thêm box ôm sát thân xe kể cả đèn
